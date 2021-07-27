@@ -1,2 +1,2 @@
-# NSODE-Algorithms
-Some ideas about basic algorithm  in numerical analysis , espesially methods for ordinary differential equations .
+NA methods
+Some ideas about basic algorithms  in numerical analysis .
